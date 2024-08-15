@@ -1,0 +1,17 @@
+A parking spot should have a size of either compact or large for compact and large vehicles.
+
+It should have methods associated with its status, i.e. empty, occupied etc.
+
+Notice that compact cars can park in large spots but large cars cannot park in compact spots.
+
+NOTE: You DO NOT need to implement VehicleSize and Vehicles as they will be provided.
+
+----------------------
+One level of a parking lot will have multiple spots. Let's assume half of them are compact and the others being large ones. If there are odd number of spots, make the large spot more.
+
+NOTE: You DO NOT need to implement VehicleSize and Vehicles as they will be provided.
+
+---------------------
+A parking lot should have multiple levels. It should be able to park and leave a vehicle.
+
+NOTE: You DO NOT need to implement VehicleSize and Vehicles as they will be provided.
